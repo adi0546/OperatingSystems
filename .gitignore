@@ -1,2 +1,14 @@
+#ignore all
+*
+#unignore all with extensions
+!*.*
+#Unignore all dirs
+!*/
+
+
 .dSYM
 .out
+.vscode/
+*.dSYM/
+.DS_Store
+
